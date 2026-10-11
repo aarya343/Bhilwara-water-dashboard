@@ -3,7 +3,7 @@
 **Author:** Aarya Nenawatee, TERI School of Advanced Studies, New Delhi
 **Project:** Entry to the International Youth Environmental Challenge (IYEC) 2026-27
 **Live dashboard:** https://bhilwara-water.streamlit.app/
-**Code repository:** [add your GitHub repo link]
+**Code repository:** https://github.com/aarya343/Bhilwara-water-dashboard
 
 ## What this is
 Cleaned tables and code behind a public dashboard on groundwater stress in Bhilwara district,
@@ -19,14 +19,14 @@ within the basin, hard limits on toxins, public verification).
 ## Files
 | File | Content |
 |---|---|
-| data/gw_tidy.csv | Pre- and post-monsoon depth to water (m below ground), 2015-2023, per well (long format) |
-| data/trend_results.csv | Per-well Theil-Sen slope, Kendall p-value, rain-adjusted slope and p, rain correlation |
-| data/rainfall.csv | Bhilwara district monsoon rainfall, normal vs actual, 2015-2023. Source:  Climate Hazards Center (CHC), UC Santa Barbara, CHIRPS v3 (InfraRed Precipitation with Station Data) gridded timeseries calibrated with Indian Meteorological Department (IMD) regional inputs.|
-| data/water_quality.csv | Groundwater chemistry (TDS, fluoride, nitrate, etc.), Shahpura block wells, 2015-2023 |
-| data/industries.csv | 34 textile units from a regulator list (Rajasthan State Pollution Control Board [RSPCB] Bhilwara Regional Office Consent Management Register, active October 2026 Directory) with coordinates found by the author by hand; "Type_guess" is inferred from unit names only |
-| data/benchmarks.csv | Water-use benchmarks per metre of fabric. Source: Central Pollution Control Board (CPCB) "Comprehensive Industry Document for Textile Industry" combined with Bureau of Energy Efficiency (BEE) PAT Scheme specific water consumption thresholds. |
-| code/trend_analysis.py | Reproduces trend_results.csv (run from this folder: `python code/trend_analysis.py`) |
-| code/app.py, requirements.txt | Streamlit dashboard |
+| gw_tidy.csv | Pre- and post-monsoon depth to water (m below ground), 2015-2023, per well (long format) |
+| trend_results.csv | Per-well Theil-Sen slope, Kendall p-value, rain-adjusted slope and p, rain correlation |
+| rainfall.csv | Bhilwara district monsoon rainfall, normal vs actual, 2015-2023. Source:  Climate Hazards Center (CHC), UC Santa Barbara, CHIRPS v3 (InfraRed Precipitation with Station Data) gridded timeseries calibrated with Indian Meteorological Department (IMD) regional inputs.|
+| water_quality.csv | Groundwater chemistry (TDS, fluoride, nitrate, etc.), Shahpura block wells, 2015-2023 |
+| industries.csv | 34 textile units from a regulator list (Rajasthan State Pollution Control Board [RSPCB] Bhilwara Regional Office Consent Management Register, active October 2026 Directory) with coordinates found by the author by hand; "Type_guess" is inferred from unit names only |
+| benchmarks.csv | Water-use benchmarks per metre of fabric. Source: Central Pollution Control Board (CPCB) "Comprehensive Industry Document for Textile Industry" combined with Bureau of Energy Efficiency (BEE) PAT Scheme specific water consumption thresholds. |
+| trend_analysis.py | Reproduces trend_results.csv (run from this folder: `python code/trend_analysis.py`) |
+| app.py, requirements.txt | Streamlit dashboard |
 
 ## Method (short)
 Wells with at least 6 post-monsoon readings get a Theil-Sen slope and a Kendall-tau p-value against year.
@@ -48,4 +48,5 @@ please credit them when reusing these tables.
 Tables derived by the author and the code: CC BY 4.0 (data) and MIT (code), subject to the original publishers' terms.
 
 ## How to cite
-Nenawatee, A. (2026). Bhilwara groundwater stress: cleaned data, analysis code and dashboard [Data set]. Zenodo. [add DOI after upload]
+Nenawatee, A. (2026). Bhilwara groundwater stress: cleaned data, analysis code and dashboard [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23302088
+
