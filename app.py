@@ -136,7 +136,7 @@ elif page.startswith("2"):
     if mode == "Persistent depth":
         st.markdown("🔴 deep (>8 m)  🟠 moderate (4-8 m)  🟢 shallow (<4 m). Circle size grows with depth. Industry pins: red = wet processing (by name), grey = spinning, orange = unclear.")
     else:
-        st.markdown("🔴 deepening after adjusting for rainfall (p<0.1)  🟢 improving  ⚪ no clear trend. With 27 wells, one or two hits can occur by chance, so read these as wells to watch.")
+        st.markdown("🔴 deepening after adjusting for rainfall (p<0.1)  🟢 improving  ⚪ no clear trend. With 25 wells tested, one or two hits can occur by chance, so read these as wells to watch.")
     t = wells[["Site", "Aquifer", "median_depth", "slope_m_yr", "p", "slope_rainadj", "p_adj", "Depth class"]].round(2)
     st.dataframe(t.sort_values("median_depth", ascending=False), width="stretch", hide_index=True)
 
@@ -187,7 +187,7 @@ elif page.startswith("4"):
     fig.add_bar(x=b.Process_Category, y=b.iloc[:, 2], name="Bhilwara cluster average")
     fig.update_layout(barmode="group", yaxis_title="Litres per metre of fabric", height=380, legend=dict(orientation="h", y=-0.25))
     st.plotly_chart(fig, width="stretch")
-    st.caption("Cluster averages run roughly 16-21% above the standard in every category.")
+    st.caption("Cluster averages run roughly 17-21% above the standard in every category.")
     with st.expander("Unit list"):
         st.dataframe(ind[["S_No", "Industry", "Cluster", "Type_guess", "Latitude", "Longitude"]], hide_index=True, width="stretch")
 
