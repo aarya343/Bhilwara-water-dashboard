@@ -13,9 +13,9 @@ Built for the International Youth Environmental Challenge (IYEC).
 - **Proposal:** Basin Water Credits, volume only, local basin only, with hard limits on toxins.
 ## Data sources
 - Groundwater levels and quality: CGWB / India-WRIS
-- Rainfall: [add source]
-- Industry list: [RSPCB list, add date]
-- Water-use benchmarks: [add source]
+- Rainfall: Primary Repository - Climate Hazards Centre (CHC), University of California, Santa Barbara (UCSB)
+- Industry list: Rajasthan State Pollution Control Board (RSPCB) Regional Office, Bhilwara, October 2026 Active Directory
+- Water-use benchmarks: Jointly compiled from the Central Pollution Control Board (CPCB) Sector-Specific Environmental Guidelines for Textile Industries & Bureau of Energy Efficiency (BEE) Perform, Achieve and Trade (PAT) Lifecycle Parameters.
 ## Limits
 - Only nine years of public well data, so findings are indicative.
 - Mill-level withdrawal and effluent data are not public.
@@ -25,4 +25,4 @@ Built for the International Youth Environmental Challenge (IYEC).
     pip install -r requirements.txt
     streamlit run app.py
 ## Author
-Aarya Nenawatee, TERI School of Advanced Studies
+Aarya Nenawatee
