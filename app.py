@@ -77,7 +77,7 @@ if page.startswith("1"):
         "and several villages stay deep even after good rain. Industrial and farm draw has little room for error."
     )
     yr = post_long.groupby("Year").Depth.mean().rename("Mean post-monsoon depth (m)").reset_index().merge(rain, on="Year")
-    rho = yr["Mean post-monsoon depth (m)"].corr(yr.Actual_Monsoon_mm, method="spearman")
+    rho = yr["Mean post-monsoon depth (m)"].rank().corr(yr.Actual_Monsoon_mm.rank())  # Spearman = Pearson on ranks (no scipy needed)
     sig_deep = int(((trend.p < 0.1) & (trend.slope_m_yr > 0)).sum())
     sig_shal = int(((trend.p < 0.1) & (trend.slope_m_yr < 0)).sum())
     deep_n = int((wells["Depth class"] == "Deep (>8 m)").sum())

@@ -1,6 +1,7 @@
 streamlit>=1.50
 pandas
 numpy
+scipy
 plotly
 folium
 streamlit-folium
