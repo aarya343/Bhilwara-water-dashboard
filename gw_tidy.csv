@@ -1,0 +1,829 @@
+Site,Dist,Block,Lat,Lon,Type,Aquifer,season,Year,Depth
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2015,6.0
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2015,6.2
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2016,14.5
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2016,8.55
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2017,7.8
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2017,7.2
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2018,14.6
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2018,8.05
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2019,14.7
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2019,2.9
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2020,11.9
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2020,3.6
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2021,5.2
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2021,3.1
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2022,4.5
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2022,2.3
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,pre,2023,8.21
+Naiarwar,Bhilwara_92,Shahpura_629,25.8322,74.8263,Dug Well,Gneiss,post,2023,5.1
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2015,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2015,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2016,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2016,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2017,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2017,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2018,
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2018,2.1
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2019,4.6
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2019,1.9
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2020,2.0
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2020,1.9
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2021,4.8
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2021,0.6
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2022,2.4
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2022,1.1
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,pre,2023,5.7
+Bachh Khera,Bhilwara_92,Shahpura_629,25.7104,75.0229,Piezometer,Schist,post,2023,3.1
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2015,2.2
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2015,3.0
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2016,4.5
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2016,0.5
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2017,2.3
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2017,1.6
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2018,3.3
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2018,1.6
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2019,5.7
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2019,1.8
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2020,1.8
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2020,1.5
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2021,2.7
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2021,1.8
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2022,2.0
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2022,1.3
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,pre,2023,3.4
+Daulatpura,Bhilwara_92,Shahpura_629,25.7381,75.0144,Dug Well,Schist,post,2023,3.0
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2015,7.1
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2015,3.1
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2016,7.0
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2016,0.8
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2017,6.1
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2017,3.3
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2018,8.1
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2018,3.3
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2019,11.5
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2019,0.7
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2020,2.7
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2020,1.2
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2021,5.6
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2021,3.1
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2022,4.9
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2022,3.9
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,pre,2023,7.4
+Barla (Taswariya Ka),Bhilwara_92,Shahpura_629,25.7674,75.0223,Dug Well,Schist,post,2023,2.8
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2015,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2015,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2016,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2016,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2017,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2017,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2018,
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2018,0.15
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2019,3.95
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2019,0.75
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2020,1.65
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2020,1.05
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2021,4.85
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2021,0.95
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2022,4.05
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2022,0.3
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,pre,2023,4.9
+Baland,Bhilwara_92,Shahpura_629,25.6484,75.0283,Piezometer,Schist,post,2023,3.6
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2015,8.8
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2015,6.9
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2016,11.05
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2016,3.15
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2017,6.3
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2017,6.1
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2018,11.4
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2018,5.9
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2019,11.9
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2019,2.1
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2020,5.1
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2020,4.2
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2021,9.9
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2021,3.8
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2022,9.6
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2022,4.8
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,pre,2023,7.0
+Muhala,Bhilwara_92,Shahpura_629,25.6585,75.0663,Dug Well,Schist,post,2023,5.5
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2015,5.9
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2015,6.0
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2016,11.6
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2016,7.05
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2017,6.7
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2017,7.0
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2018,11.6
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2018,5.0
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2019,11.2
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2019,0.7
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2020,3.0
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2020,4.1
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2021,4.7
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2021,3.6
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2022,3.5
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2022,5.1
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,pre,2023,5.2
+Dhanop,Bhilwara_92,Shahpura_629,25.8561,74.9094,Dug Well,Gneiss,post,2023,3.25
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2015,4.65
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2015,2.3
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2016,10.6
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2016,3.1
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2017,8.9
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2017,5.7
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2018,11.2
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2018,4.9
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2019,7.9
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2019,2.3
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2020,4.2
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2020,3.0
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2021,4.8
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2021,3.3
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2022,2.7
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2022,1.5
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,pre,2023,4.6
+Dheekola,Bhilwara_92,Shahpura_629,25.5437,74.8328,Dug Well,Schist,post,2023,3.0
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2015,4.2
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2015,5.1
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2016,6.5
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2016,3.3
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2017,10.9
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2017,3.25
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2018,9.1
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2018,8.9
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2019,9.45
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2019,1.6
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2020,5.8
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2020,2.3
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2021,5.1
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2021,1.95
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2022,3.7
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2022,2.1
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,pre,2023,5.2
+Dohariya,Bhilwara_92,Shahpura_629,25.7421,74.9742,Dug Well,Schist,post,2023,2.9
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2015,7.3
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2015,6.4
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2016,15.3
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2016,1.1
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2017,12.9
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2017,5.2
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2018,14.1
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2018,13.7
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2019,11.9
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2019,2.5
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2020,11.7
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2020,7.5
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2021,12.0
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2021,9.5
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2022,7.4
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2022,5.4
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,pre,2023,5.4
+Karamdas,Bhilwara_92,Shahpura_629,25.501,74.81,Dug Well,Schist,post,2023,3.5
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2015,13.8
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2015,11.55
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2016,14.55
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2016,11.85
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2017,11.8
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2017,4.37
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2018,14.65
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2018,11.25
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2019,17.85
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2019,4.6
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2020,12.05
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2020,9.05
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2021,13.4
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2021,4.25
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2022,5.65
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2022,9.55
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,pre,2023,14.6
+Taswaria Khurd,Bhilwara_92,Shahpura_629,25.5602,74.7997,Dug Well,Schist,post,2023,8.2
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2015,7.1
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2015,9.2
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2016,16.1
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2016,2.3
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2017,10.5
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2017,9.3
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2018,13.5
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2018,11.8
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2019,16.4
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2019,1.4
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2020,9.6
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2020,4.8
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2021,12.5
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2021,2.5
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2022,6.2
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2022,4.6
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,pre,2023,10.8
+Taswariya Khurd,Bhilwara_92,Shahpura_629,25.5605,74.7899,Dug Well,Schist,post,2023,8.2
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2015,2.34
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2015,5.1
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2016,7.73
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2016,4.15
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2017,6.76
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2017,0.12
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2018,6.7
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2018,5.7
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2019,7.35
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2019,2.47
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2020,1.05
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2020,2.1
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2021,4.3
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2021,2.8
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2022,4.0
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2022,2.8
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,pre,2023,3.17
+Kanechan Kala,Bhilwara_92,Shahpura_629,25.756,74.906,Dug Well,Schist,post,2023,2.2
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2015,8.9
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2015,8.0
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2016,10.1
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2016,2.7
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2017,5.3
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2017,5.2
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2018,7.85
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2018,7.7
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2019,9.7
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2019,2.8
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2020,10.0
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2020,3.0
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2021,4.6
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2021,3.1
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2022,5.7
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2022,4.1
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,pre,2023,4.9
+Khamor,Bhilwara_92,Shahpura_629,25.7515,74.8014,Dug Well,Gneiss,post,2023,5.6
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2015,14.15
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2015,13.55
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2016,16.05
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2016,3.15
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2017,11.5
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2017,12.45
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2018,12.25
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2018,10.8
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2019,12.8
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2019,2.4
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2020,3.05
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2020,1.85
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2021,10.95
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2021,2.55
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2022,7.05
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2022,8.3
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,pre,2023,14.7
+Kothiya,Bhilwara_92,Shahpura_629,25.8717,74.7674,Dug Well,Gneiss,post,2023,10.5
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2015,4.05
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2015,1.85
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2016,5.05
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2016,1.95
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2017,4.05
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2017,2.65
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2018,5.35
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2018,2.05
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2019,8.45
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2019,1.0
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2020,1.95
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2020,2.45
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2021,3.25
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2021,2.5
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2022,10.65
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2022,1.55
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,pre,2023,3.05
+Kotri Meena,Bhilwara_92,Shahpura_629,25.6929,75.0578,Dug Well,Schist,post,2023,3.2
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2015,18.3
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2015,4.75
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2016,11.55
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2016,3.25
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2017,8.05
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2017,6.15
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2018,14.45
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2018,5.45
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2019,14.45
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2019,2.5
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2020,7.65
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2020,2.45
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2021,11.65
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2021,3.05
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2022,9.75
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2022,6.75
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,pre,2023,10.5
+Lasariya,Bhilwara_92,Shahpura_629,25.6846,75.0964,Dug Well,Schist,post,2023,6.0
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2015,6.0
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2015,4.75
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2016,7.75
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2016,6.2
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2017,6.35
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2017,6.4
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2018,10.4
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2018,6.75
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2019,7.8
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2019,1.8
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2020,4.7
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2020,5.7
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2021,5.2
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2021,2.8
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2022,5.55
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2022,2.9
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,pre,2023,4.0
+Shahpura,Bhilwara_92,Shahpura_629,25.6749,74.9471,Dug Well,Schist,post,2023,4.4
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2015,3.05
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2015,2.0
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2016,5.4
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2016,1.9
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2017,8.25
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2017,2.15
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2018,11.15
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2018,8.45
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2019,10.9
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2019,1.25
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2020,6.75
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2020,5.15
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2021,9.75
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2021,2.45
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2022,10.45
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2022,2.7
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,pre,2023,12.2
+Amarpura,Bhilwara_92,Shahpura_629,25.5591,74.9301,Dug Well,Schist,post,2023,3.4
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2015,7.8
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2015,7.4
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2016,8.8
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2016,6.2
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2017,8.1
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2017,6.15
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2018,8.3
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2018,4.6
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2019,11.8
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2019,0.9
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2020,5.9
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2020,2.6
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2021,4.1
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2021,5.3
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2022,6.9
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2022,4.3
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,pre,2023,7.8
+Phooliya Kalan,Bhilwara_92,Shahpura_629,25.8165,74.9609,Dug Well,Gneiss,post,2023,5.8
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2015,7.1
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2015,6.1
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2016,9.4
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2016,3.1
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2017,8.7
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2017,6.2
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2018,11.2
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2018,8.7
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2019,10.1
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2019,1.8
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2020,7.8
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2020,4.0
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2021,10.0
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2021,2.4
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2022,11.9
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2022,4.3
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,pre,2023,9.4
+Khera Rajpura @ Suratsingh Ka Khera,Bhilwara_92,Shahpura_629,25.5752,74.8129,Dug Well,Schist,post,2023,4.7
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2015,8.6
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2015,12.55
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2016,11.55
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2016,3.65
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2017,10.15
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2017,5.0
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2018,11.35
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2018,4.55
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2019,12.35
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2019,3.35
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2020,8.2
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2020,5.15
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2021,10.2
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2021,4.7
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2022,11.9
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2022,5.1
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,pre,2023,8.3
+Phooliya Khurd,Bhilwara_92,Shahpura_629,25.5941,74.8074,Dug Well,Schist,post,2023,6.5
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2015,6.08
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2015,8.98
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2016,10.26
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2016,8.35
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2017,5.86
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2017,4.41
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2018,9.28
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2018,5.48
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2019,7.88
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2019,2.03
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2020,4.33
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2020,3.48
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2021,7.68
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2021,3.78
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2022,5.98
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2022,4.78
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,pre,2023,6.99
+Sopura,Bhilwara_92,Shahpura_629,25.604,74.9,Dug Well,Schist,post,2023,5.74
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2015,8.7
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2015,3.2
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2016,11.6
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2016,1.9
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2017,9.85
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2017,2.4
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2018,9.4
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2018,2.1
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2019,10.2
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2019,0.5
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2020,7.5
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2020,3.4
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2021,8.2
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2021,2.6
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2022,7.2
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2022,3.2
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,pre,2023,9.5
+Rahar,Bhilwara_92,Shahpura_629,25.6985,74.9922,Dug Well,Schist,post,2023,3.2
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2015,17.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2015,17.0
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2016,18.2
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2016,19.15
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2017,18.0
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2017,13.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2018,17.8
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2018,14.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2019,13.3
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2019,3.9
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2020,12.4
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2020,7.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2021,14.3
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2021,7.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2022,14.9
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2022,7.1
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,pre,2023,17.5
+Sangariya,Bhilwara_92,Shahpura_629,25.851,74.8695,Dug Well,Gneiss,post,2023,14.5
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2015,10.35
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2015,3.65
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2016,11.55
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2016,1.65
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2017,11.35
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2017,3.45
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2018,12.55
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2018,7.1
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2019,13.35
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2019,1.05
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2020,6.95
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2020,2.55
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2021,9.85
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2021,4.25
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2022,6.75
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2022,4.6
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,pre,2023,10.5
+Taswariya Bansa,Bhilwara_92,Shahpura_629,25.7737,74.98,Dug Well,Schist,post,2023,5.25
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2015,6.35
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2015,4.35
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2016,9.35
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2016,5.8
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2017,8.15
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2017,5.65
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2018,8.35
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2018,6.4
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2019,10.6
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2019,1.85
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2020,9.25
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2020,4.55
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2021,8.0
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2021,3.4
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2022,7.1
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2022,4.3
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,pre,2023,6.6
+Tahnal,Bhilwara_92,Shahpura_629,25.674,74.8594,Dug Well,Schist,post,2023,6.1
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2015,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2015,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2016,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2016,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2017,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2017,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2018,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2018,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2019,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2019,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2020,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2020,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2021,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2021,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2022,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2022,
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,pre,2023,7.7
+Aamli Kalal,Bhilwara_92,Shahpura_629,25.6313,75.0246,Piezometer,Schist,post,2023,4.3
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2015,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2015,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2016,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2016,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2017,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2017,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2018,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2018,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2019,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2019,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2020,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2020,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2021,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2021,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2022,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2022,
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,pre,2023,8.0
+Arniya Ghora,Bhilwara_92,Shahpura_629,25.6778,74.9049,Piezometer,Schist,post,2023,3.4
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2015,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2015,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2016,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2016,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2017,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2017,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2018,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2018,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2019,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2019,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2020,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2020,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2021,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2021,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2022,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2022,
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,pre,2023,10.4
+Arniya Rasan,Bhilwara_92,Shahpura_629,25.5599,74.944,Piezometer,Schist,post,2023,3.2
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2015,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2015,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2016,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2016,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2017,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2017,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2018,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2018,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2019,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2019,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2020,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2020,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2021,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2021,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2022,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2022,
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,pre,2023,6.8
+Bhojpur,Bhilwara_92,Shahpura_629,25.444,74.8659,Piezometer,Schist,post,2023,3.0
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2015,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2015,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2016,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2016,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2017,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2017,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2018,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2018,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2019,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2019,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2020,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2020,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2021,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2021,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2022,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2022,
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,pre,2023,6.5
+Biliya,Bhilwara_92,Shahpura_629,25.7094,74.8185,Piezometer,Schist,post,2023,4.0
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2015,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2015,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2016,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2016,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2017,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2017,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2018,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2018,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2019,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2019,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2020,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2020,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2021,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2021,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2022,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2022,
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,pre,2023,7.05
+Borda,Bhilwara_92,Shahpura_629,25.6347,74.8329,Piezometer,Schist,post,2023,4.0
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2015,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2015,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2016,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2016,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2017,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2017,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2018,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2018,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2019,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2019,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2020,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2020,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2021,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2021,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2022,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2022,
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,pre,2023,9.2
+Dabla Kachra,Bhilwara_92,Shahpura_629,25.5988,74.9647,Piezometer,Schist,post,2023,3.6
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2015,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2015,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2016,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2016,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2017,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2017,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2018,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2018,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2019,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2019,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2020,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2020,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2021,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2021,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2022,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2022,
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,pre,2023,7.0
+Daulatpura,Bhilwara_92,Shahpura_629,25.5943,74.8693,Piezometer,Schist,post,2023,3.4
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2015,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2015,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2016,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2016,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2017,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2017,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2018,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2018,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2019,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2019,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2020,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2020,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2021,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2021,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2022,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2022,
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,pre,2023,7.0
+Panotiya,Bhilwara_92,Shahpura_629,25.8041,74.8522,Piezometer,Gneiss,post,2023,4.1
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2015,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2015,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2016,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2016,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2017,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2017,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2018,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2018,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2019,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2019,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2020,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2020,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2021,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2021,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2022,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2022,
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,pre,2023,9.3
+Eitdiya,Bhilwara_92,Shahpura_629,25.8568,74.8159,Piezometer,Schist,post,2023,6.0
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2015,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2015,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2016,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2016,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2017,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2017,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2018,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2018,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2019,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2019,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2020,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2020,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2021,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2021,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2022,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2022,
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,pre,2023,6.1
+Girdiya,Bhilwara_92,Shahpura_629,25.4969,74.9099,Piezometer,Schist,post,2023,3.45
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2015,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2015,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2016,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2016,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2017,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2017,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2018,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2018,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2019,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2019,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2020,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2020,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2021,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2021,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2022,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2022,
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,pre,2023,5.8
+Kadi Sahna,Bhilwara_92,Shahpura_629,25.653,74.9861,Piezometer,Schist,post,2023,3.5
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2015,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2015,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2016,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2016,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2017,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2017,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2018,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2018,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2019,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2019,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2020,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2020,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2021,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2021,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2022,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2022,
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,pre,2023,8.7
+Naya Sarsoonda,Bhilwara_92,Shahpura_629,25.7332,74.8772,Piezometer,Gneiss,post,2023,3.1
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2015,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2015,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2016,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2016,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2017,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2017,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2018,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2018,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2019,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2019,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2020,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2020,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2021,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2021,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2022,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2022,
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,pre,2023,8.0
+Chalaniya,Bhilwara_92,Shahpura_629,25.5215,74.8736,Piezometer,Schist,post,2023,3.7
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2015,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2015,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2016,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2016,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2017,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2017,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2018,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2018,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2019,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2019,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2020,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2020,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2021,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2021,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2022,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2022,
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,pre,2023,10.2
+Mindoliya,Bhilwara_92,Shahpura_629,25.538,74.9036,Piezometer,Schist,post,2023,3.25
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2015,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2015,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2016,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2016,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2017,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2017,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2018,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2018,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2019,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2019,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2020,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2020,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2021,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2021,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2022,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2022,
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,pre,2023,6.9
+Nai Rajyas,Bhilwara_92,Shahpura_629,25.7776,74.867,Piezometer,Gneiss,post,2023,4.2
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2015,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2015,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2016,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2016,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2017,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2017,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2018,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2018,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2019,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2019,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2020,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2020,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2021,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2021,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2022,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2022,
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,pre,2023,7.2
+Pratappura,Bhilwara_92,Shahpura_629,25.6118,74.8467,Piezometer,Schist,post,2023,3.8
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2015,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2015,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2016,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2016,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2017,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2017,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2018,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2018,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2019,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2019,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2020,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2020,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2021,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2021,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2022,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2022,
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,pre,2023,8.6
+Sangari,Bhilwara_92,Shahpura_629,25.8412,74.9895,Piezometer,Gneiss,post,2023,5.4
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2015,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2015,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2016,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2016,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2017,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2017,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2018,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2018,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2019,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2019,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2020,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2020,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2021,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2021,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2022,11.0
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2022,4.25
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,pre,2023,
+Hukampura,Bhilwara_92,Shahpura_629,25.7817,74.9163,Piezometer,,post,2023,

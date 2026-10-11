@@ -1,0 +1,35 @@
+S_No,Industry,Address_short,Cluster,Type_guess,Latitude,Longitude,Coord_source,km_from_cluster_median,km_to_city_centre
+1,A. K. Spintex,"14 Km Stone, Biliya Kala, Chittor Road",Biliya Kalan-Chittor Rd,spinning,25.32726362,74.63885522,manual Google Maps lookup (user),1.6507248167643749,2.213265121328724
+2,Abhilasha Polyster,"F-106, Ricco Industrial Area",RIICO Pur Road,unclear,25.321572399905246,74.5818899,manual Google Maps lookup (user),0.1069392039634792,6.1292256567698535
+3,Anirudh Texchem Pvt Ltd,"E-170, Hamirgarh Growth Center, Chittorgarh Road",Hamirgarh,unclear,25.34999756358784,74.63115282,manual Google Maps lookup (user),5.639716864607899,0.5902149966330735
+4,Arams Textiles Pvt Ltd,"E-277-278, E-291-292, RIICO IA, Growth Centre, Hamirgarh",Hamirgarh,unclear,25.34099863,74.63119441888232,manual Google Maps lookup (user),4.639081188037478,0.8237333648582063
+5,Bhilwara Spinners Ltd,"SPL-1, RIICO Industrial Area, Pur Road",RIICO Pur Road,spinning,25.326513070007145,74.58082595,manual Google Maps lookup (user),0.549377449555602,5.9946420209509625
+6,BSL Ltd (Processing Division),"Village Mandpam, Chittor Road",Mandpam-Mandpiya,wet,25.23861442927205,74.62597678,manual Google Maps lookup (user),2.5622038722492144,12.093979698723048
+7,Chairman Processors,"Plot 48,49,54,55 Ricco Growth Center, Hamirgarh, Chittor Road",Hamirgarh,wet,25.275476839323066,74.63830421,manual Google Maps lookup (user),2.741988754525408,7.956384669235504
+8,Ikore Active Wear Pvt Ltd,"Plot E-171, RIICO IA, Growth Centre, Hamirgarh",Hamirgarh,unclear,25.227955131968148,74.63055052,manual Google Maps lookup (user),7.9310302732623,13.248519132197972
+9,Janki Corporation Ltd,"Mandpiya Chouraha, Chittor Road",Mandpam-Mandpiya,unclear,25.272570693568383,74.63548865,manual Google Maps lookup (user),2.292006393266955,8.27632088959149
+10,Kanchan India Ltd (Process unit),"Mandal, Near Railway Crossing, Ajmer Road, Keer Khera",Mandal,wet,25.441471633240383,74.59468327,manual Google Maps lookup (user),5.042986623681992,11.294918766982049
+11,Kanchan India Ltd (Spinning unit),"Nanakpura, 18 Mile Stone, Ajmer Road, Mandal",Mandal,spinning,25.3627695769882,74.6097226,manual Google Maps lookup (user),3.8757621664380775,3.16966042409798
+12,Laxmi Vishal Processors Pvt Ltd,"Khasra 1907/613..., Dhuwaliya, Tehsil Hurda",Hurda,wet,25.66855222128099,74.59571223,manual Google Maps lookup (user),17.828085198028525,35.982845347082886
+13,Modern Woollens,"Hamirgarh Road, PB 27",Hamirgarh,unclear,25.3230799102695,74.63243522,manual Google Maps lookup (user),2.649646542892324,2.6838122324568787
+14,Modtex Texturisers Pvt Ltd,"Khasra 1542/391, 19 Km Stone, Chittor Road, Takhatpura",Guwardi-Chittor Rd,unclear,25.17545096146237,74.61923163,manual Google Maps lookup (user),8.178412263668886,19.14976951963149
+15,Puja Spintex Pvt Ltd,"13 Km Stone, Chittor Road, Guwardi",Guwardi-Chittor Rd,spinning,25.343241071890706,74.62908661,manual Google Maps lookup (user),10.513373090216492,0.8107809004611322
+16,Rajasthan Spinning And Weaving Mills Ltd,"PB 13, Village Mandpam",Mandpam-Mandpiya,unclear,25.24793160870261,74.60845232,manual Google Maps lookup (user),1.6288186340450213,11.358685372393907
+17,Ranjan Polysters Ltd,"11, 12 Km Stone, Chittor Road, Guwardi",Guwardi-Chittor Rd,unclear,25.24872693599374,74.62836772,manual Google Maps lookup (user),0.2134386668790648,10.954370713841136
+18,Rolex Processors Pvt Ltd,"13-14 Km Stone Gangapur Road, Pur",Pur-Gangapur Rd,wet,25.283988285322444,74.52258126,manual Google Maps lookup (user),4.280996050780895,13.381429089347607
+19,Ronak Process Ltd,"G-138, 142 Phase-IV, Ricco IA, Pur Road",RIICO Pur Road,wet,25.332240785354323,74.58097263,manual Google Maps lookup (user),1.1863619393415128,5.768441685319103
+20,RSWM Ltd,"Kharigram, Gulabpura, Tehsil Hurda",Hurda,unclear,25.34918926051288,74.62770252,manual Google Maps lookup (user),17.828277397702806,0.8686187175684693
+21,Saileela Processors Pvt Ltd (old: Suzuki Processor),"Village Gudda, Post Mandal",Mandal,wet,25.43233152748632,74.60467747,manual Google Maps lookup (user),3.875757391945192,9.99654087624988
+22,Samarpan Synthetics Pvt Ltd,"13 km Stone, Gangapur Road, Pur",Pur-Gangapur Rd,unclear,25.33520490874355,74.58617596,manual Google Maps lookup (user),4.280491610071133,5.17600536866436
+23,Sangam India Ltd,"Atun, Outside Octroi Post, Chittor Road",Chittor Rd (Atun),unclear,25.23388211992204,74.62293847,manual Google Maps lookup (user),0.0,12.64649683178667
+24,Sangam India Ltd (Spinning),"PB 126, Biliya Kalan, Chittorgarh Road",Biliya Kalan-Chittor Rd,spinning,25.297861405120297,74.63428797,manual Google Maps lookup (user),1.6507286904812788,5.466671413416771
+25,Sanwariya Ji Tex Fab Industries Ltd (old: TPL Industries),"Chittor Road, Guwardi",Guwardi-Chittor Rd,unclear,25.246054857457672,74.62624547,manual Google Maps lookup (user),0.2971215768066664,11.267343689793606
+26,Sarvoday India Ltd (old: Shree Charbhuja Processor),"Plot A-44,45,58,59 Ricco Growth Center, Hamirgarh",Hamirgarh,wet,25.32568369935256,74.5969926,manual Google Maps lookup (user),4.519504987630586,4.581072899859655
+27,Shri Anant Syntex Ltd,"PB 107, Gathila Kheda, Chittor Road",Chittor Rd (Gathila Kheda),unclear,25.22550279433576,74.62357802,manual Google Maps lookup (user),0.0,13.567477823455164
+28,Shubh Laxmi Processors Pvt Ltd (only CTE as on 04.12.2024),"Araji 1678..., Hamirgarh",Hamirgarh,wet,25.1878526220382,74.61625633,manual Google Maps lookup (user),12.480486143823128,17.807400719469946
+29,Sona Processors India Ltd,"12 Km Stone, Guwardi",Guwardi-Chittor Rd,wet,25.3444538439496,74.62430749,manual Google Maps lookup (user),10.646129394140146,1.2086252323742477
+30,Sonaselection India Ltd (old: Sona Processors Unit-II),"18 Km Stone, Chittor Road, Hamirgarh",Hamirgarh,wet,25.275028582036352,74.6351169,manual Google Maps lookup (user),2.7254435252190725,8.003348850748589
+31,Sulzer Processors Pvt Ltd,"Opp. Railway Station, Mandal",Mandal,wet,25.250268824340665,74.63055387,manual Google Maps lookup (user),16.5443416090199,10.769941432465544
+32,Super Gold Suiting Pvt Ltd,"Khasra 538/1 & 637, Ricco IA, Mandpiya",Mandpam-Mandpiya,unclear,25.329835779856143,74.58948659,manual Google Maps lookup (user),8.224287325815334,5.04910236010049
+33,Swastik Suitings,"7 to 14, Industrial Area, 6 km Stone, Pur Road",RIICO Pur Road,unclear,25.320091320824897,74.57347984,manual Google Maps lookup (user),0.7565163522933472,6.959417415630203
+35,Vardhan Textueisers,"37-38,44-45, RIICO IA-3, Behind Swastik Process, Pur Road",RIICO Pur Road,unclear,25.3191493609085,74.57593331,manual Google Maps lookup (user),0.5607419343701838,6.784811132317743
