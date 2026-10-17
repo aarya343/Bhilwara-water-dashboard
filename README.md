@@ -47,6 +47,5 @@ please credit them when reusing these tables.
 ## Licence
 Tables derived by the author and the code: CC BY 4.0 (data) and MIT (code), subject to the original publishers' terms.
 
-## How to cite
 Nenawatee, A. (2026). Bhilwara groundwater stress: cleaned data, analysis code and dashboard [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23302088
 
